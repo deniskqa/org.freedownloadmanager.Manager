@@ -86,5 +86,5 @@ modules:
         url: https://dn3.freedownloadmanager.org/6/latest/freedownloadmanager.deb
         sha256: 164a11bc5ff634e74f902c6334d159f608cdf45c037a0a3497dd1236bbd346c5
         filename: freedownloadmanager.deb
-        size: 40855092
+        size: 43738118
         only-arches: [x86_64]
